@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">L13 Weather Forecast (Adv)</string>
+    <string name="hello">Weather WS Demo</string>
+    <string name="cmDelete">Remove this city</string>
+</resources>
